@@ -1,2 +1,2 @@
 # flexasm
-Flexible assembler, configurable for multiple CPUs
+Flexible assembler
