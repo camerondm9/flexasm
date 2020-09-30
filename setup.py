@@ -25,7 +25,7 @@ setup(
 	install_requires=[],
 	include_package_data=True,
 	zip_safe=True,
-	test_suite='nose.collector',
-	tests_require=['nose'],
+	test_suite='tests',
+	tests_require=['pytest'],
 	python_requires='>=3'
 )
